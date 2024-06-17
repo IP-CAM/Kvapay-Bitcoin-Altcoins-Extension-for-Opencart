@@ -14,7 +14,7 @@ For testing purposes, it is important to generate separate API credentials on ht
 ### For OpenCart version 2.0.*-2.2.*, 2.3.* or 3.*
 follow these steps to install and configure the kvapay payment extension:
 
-1. <a href="https://github.com/kvapay/prestashop-plugin/releases">Download</a> the latest release of the kvapay extension for OpenCart.
+1. <a href="https://github.com/kvapay/opencart-plugin/releases">Download</a> the latest release of the kvapay extension for OpenCart.
 
 2. Go to "Extensions" » "Installer" in your OpenCart admin panel and upload the file "kvapay-opencart.ocmod.zip".
 
