@@ -21,7 +21,7 @@ $_['entry_paid_status'] = 'Paid Status';
 $_['entry_expired_status'] = 'Expired Status';
 
 $_['help_total'] = 'The checkout total the order must reach before this payment method becomes active.';
-$_['help_test_mode'] = 'Enable "test mode" to test on dev.kvapay.com. Please note, that for "Test" mode you must generate separate API credentials on dev.kvapay.com. API credentials generated on kvapay.com will not work for "Test" mode.';
+$_['help_test_mode'] = 'Enable "test mode" to test on dev.crypay.com. Please note, that for "Test" mode you must generate separate API credentials on dev.crypay.com. API credentials generated on kvapay.com will not work for "Test" mode.';
 
 $_['error_permission'] = 'Warning: You do not have permission to modify KvaPay!';
 $_['error_composer'] = 'Unable to load kvapay-php. Please download a compiled vendor folder or run composer.';
