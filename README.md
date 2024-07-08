@@ -1,7 +1,7 @@
 ## Installation
 First and foremost, it is necessary to register for an account on kvapay. To proceed with the installation and testing of the kvapay OpenCart payment module, please follow these simple steps:
 
-Sign up for an account on kvapay. You can use our main website at https://kvapay.com/ for production purposes. However, if you wish to conduct testing, we provide a test environment at https://dev.kvapay.com/. Please ensure you create an account on the test platform even if you already have one on our main website.
+Sign up for an account on kvapay. You can use our main website at https://kvapay.com/ for production purposes. However, if you wish to conduct testing, we provide a test environment at https://dev.crypay.com/. Please ensure you create an account on the test platform even if you already have one on our main website.
 
 The installation process for our OpenCart payment module is straightforward. To ensure the kvapay payment gateway functions correctly on your website, follow these two quick steps:
 
@@ -9,7 +9,7 @@ The installation process for our OpenCart payment module is straightforward. To 
 
 * Install the kvapay payment module for OpenCart.
 
-For testing purposes, it is important to generate separate API credentials on https://dev.kvapay.com since the API credentials generated on https://kvapay.com will not function in the test environment. To create a set of API credentials, log in to your kvapay account. You can either complete the auto-setup wizard or access the API tab from the menu. Click on "Projects" and then click "+Add project."
+For testing purposes, it is important to generate separate API credentials on https://dev.crypay.com since the API credentials generated on https://kvapay.com will not function in the test environment. To create a set of API credentials, log in to your kvapay account. You can either complete the auto-setup wizard or access the API tab from the menu. Click on "Projects" and then click "+Add project."
 
 ### For OpenCart version 2.0.*-2.2.*, 2.3.* or 3.*
 follow these steps to install and configure the kvapay payment extension:
